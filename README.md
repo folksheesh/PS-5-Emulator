@@ -7,7 +7,7 @@
 
 <br>
 
-![Version](https://img.shields.io/badge/Version-14.22-3b82f6?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-14.23-3b82f6?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-64--bit-6b7280?style=for-the-badge)
 ![Project](https://img.shields.io/badge/Project-Independent-8b5cf6?style=for-the-badge)
