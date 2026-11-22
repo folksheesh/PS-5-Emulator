@@ -20,7 +20,7 @@ Continuous Development – The project is actively evolving, with improvements p
 
 Application: PS5 Pro Emulator
 
-Version: 14.22
+Version: 14.23
 
 Platform: Windows PC
 
@@ -46,19 +46,6 @@ Storage: Sufficient free space for the application and supported game files
 
 Actual performance may vary depending on hardware, configuration, and software compatibility.
 
-🚀 Getting Started
-
-Download the application files.
-
-Extract the archive if necessary.
-
-Launch the emulator executable.
-
-Configure the available settings.
-
-Select your supported game files.
-
-Start the application and explore the available features.
 
 🔧 Development & Updates
 
