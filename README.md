@@ -69,6 +69,9 @@ This repository is the main place for project information, updates, documentatio
 | Main Interface |
 |:-:|
 | <img src="scr.jpg" alt="Main Interface" width="400"> | 
+| <img src="sscr1.jpg" alt="Main Interface" width="400"> | 
+| <img src="scr2.jpg" alt="Main Interface" width="400"> | 
+| <img src="scr3.jpg" alt="Main Interface" width="400"> | 
 
 </div>
 
