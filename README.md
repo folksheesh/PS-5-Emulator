@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="banner.png" alt="PS5 Pro Emulator" width="100%">
 # 🎮 PS5 Pro Emulator
 
 **An independent PlayStation 5 Pro emulation project for Windows.**
