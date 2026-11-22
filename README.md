@@ -39,7 +39,7 @@ The project focuses on building a convenient and accessible emulation environmen
 - 🔧 **Compatibility** — steadily growing software support
 - 🔄 **Continuous improvement** — regular refinements and updates
 
-**Version 14.22** is the current release. Development is focused on refining the software, improving the overall user experience, and expanding its capabilities.
+**Version 14.23** is the current release. Development is focused on refining the software, improving the overall user experience, and expanding its capabilities.
 
 This repository is the main place for project information, updates, documentation, and development-related resources.
 
@@ -66,9 +66,9 @@ This repository is the main place for project information, updates, documentatio
 
 <div align="center">
 
-| Main Interface | Settings |
-|:-:|:-:|
-| <img src="screenshots/main.png" alt="Main Interface" width="400"> | <img src="screenshots/settings.png" alt="Settings" width="400"> |
+| Main Interface |
+|:-:|
+| <img src="scr.jpg" alt="Main Interface" width="400"> | 
 
 </div>
 
@@ -110,7 +110,7 @@ Recommended specifications (for reference):
 | Property | Value |
 |---|---|
 | **Project** | PS5 Pro Emulator |
-| **Version** | 14.22 |
+| **Version** | 14.23 |
 | **Platform** | Windows |
 | **Architecture** | 64-bit |
 | **Category** | Game Emulation |
@@ -199,7 +199,7 @@ Feedback and constructive suggestions are always welcome.
 
 <br>
 
-**PS5 Pro Emulator v14.22**
+**PS5 Pro Emulator v14.23**
 *Independent development. Continuous improvement.*
 
 </div>
